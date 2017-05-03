@@ -26,7 +26,7 @@ class App extends Component {
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>
-          <a className="rainbow" href="https://www.facebook.com/Wangtaglang">Welcome to React</a>
+          <a className="rainbow" href="https://www.facebook.com/Wangtaglang">Welcome to React #WINAI WANGTAGLANG</a>
           
           </h2>
           <h2>TOP SITE</h2>
